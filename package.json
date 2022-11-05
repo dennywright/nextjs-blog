@@ -20,5 +20,6 @@
   "devDependencies": {
     "eslint": "8.26.0",
     "eslint-config-next": "13.0.0"
-  }
+  },
+  "export: "next export"
 }
